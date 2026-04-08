@@ -11,7 +11,7 @@
 - **Interactive UI:** Modern, vibrant, and responsive design for all devices.
 - **Powered by 7Timer:** Reliable weather data sourced from the trusted 7Timer service.
 - **Clear Visuals:** Easily interpret weather trends with clean cards and intuitive weather icons.
-- **Attribution:** Designed and developed by Vaibhav Modi.
+- **Attribution:** Designed and developed by ujjwal golawat.
 
 ---
 
